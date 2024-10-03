@@ -18,8 +18,8 @@
 ## Installation (Yawn)
 
 ```
-git clone https://github.com/your-awesome-username/password-for-dummies.git
-cd password-for-dummies
+git clone https://github.com/adhikareeprayush/Password-For-Dummies.git
+cd Password-For-Dummies
 npm install
 npm start
 ```
